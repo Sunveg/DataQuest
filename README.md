@@ -4,8 +4,11 @@ Notebook for DataQuest-2.0 in-class competition hosted by PASC. In collab with U
 # Problem statement:
 You have to predict if a person exercises daily or not based on his/her brief medical history and other information. The answer is in terms of "yes" or "no" only.
 
-# Data fields: 
-
+File descriptions
+doctor_train.csv - the training set
+doctor_test.csv - the test set
+sampleSubmission.csv - a sample submission file in the correct format
+Data fields
 Age - age of the person
 Profession -profession of patient
 Status - nuptial status
