@@ -1,10 +1,11 @@
 # DataQuest
-Notebook for DataQuest-2.0 in-class competition hosted by PASC.
+Notebook for DataQuest-2.0 in-class competition hosted by PASC. Teamed up with Urjit Patil
 
-# Problem statement:
+Problem statement:
 You have to predict if a person exercises daily or not based on his/her brief medical history and other information. The answer is in terms of "yes" or "no" only.
 
-# Data fields
+Data fields: 
+
 Age - age of the person
 Profession -profession of patient
 Status - nuptial status
