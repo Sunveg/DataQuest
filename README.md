@@ -1,5 +1,5 @@
 
-Notebook for DataQuest-2.0 in-class competition hosted by PASC. In collab with Urjit Patil
+Notebook for DataQuest-2.0 in-class competition hosted by PASC. In collab with <a href="https://github.com/patilurjit">Urjit Patil<a>
 
 # Problem statement:
 You have to predict if a person exercises daily or not based on his/her brief medical history and other information. The answer is in terms of "yes" or "no" only.
