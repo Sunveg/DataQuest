@@ -1,4 +1,4 @@
-
+Won the 3rd place in DataQuest2.0 on kaggle 
 Notebook for DataQuest-2.0 in-class competition hosted by PASC (PICT ACM Student Chapter). In collab with <a href="https://github.com/patilurjit">Urjit Patil<a>
 
 # Problem statement:
